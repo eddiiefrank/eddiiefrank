@@ -1,36 +1,12 @@
 <h1 align="center">Edidiong Francis Matthew
-📍 Mobile App Developer (Flutter & Dart)
-🚀 Building cross-platform apps with pixel-perfect UIs
-📱 Expertise: Flutter • Dart • Firebase • REST APIs • State Management (Provider/Bloc) • Clean Architecture
+📱 Flutter Developer | Mobile Solutions
+✨ Crafting smooth cross-platform experiences
+🛠️ Dart • Firebase • Clean Code • State Mgmt
+🌐 REST APIs • CI/CD • Performance Optimization
 
-About Me:
-Passionate Flutter Developer with experience in building scalable, high-performance mobile applications for Android and iOS. Focused on writing clean, maintainable code while delivering exceptional user experiences.
+📬 Let's connect: eddiiefrank@gmail.com
 
-🔹 Skills:
-
-Flutter SDK & Dart Programming
-
-Firebase (Auth, Firestore, Cloud Functions)
-
-State Management (Provider, Riverpod, Bloc)
-
-RESTful API Integration
-
-UI/UX Best Practices
-
-CI/CD (GitHub Actions, Fastlane)
-
-🔹 Projects:
-
-Project Name: Brief description
-
-Project Name: Brief description
-
-📫 Let’s connect:
-LinkedIn | Twitter | Portfolio
-
-💡 Fun Fact:
-When I’m not coding, I enjoy [hobby, e.g., "contributing to open-source projects" or "exploring new design trends"].</h1>
+</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
