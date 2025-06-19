@@ -1,11 +1,13 @@
 <h1 align="center">
-  Edidiong Francis Matthew
+Dev. Eddie😎
 </h1>
-<h3 align="left"></h3>
-<p align="left">
+<h3 align="left">
   
 📱 Flutter Developer | Mobile Solutions
-✨ Crafting smooth cross-platform experiences
+
+</h3>
+<p align="left">
+  ✨ Crafting smooth cross-platform experiences
 🛠️ Dart • Firebase • Clean Code • State Mgmt
 🌐 REST APIs • CI/CD • Performance Optimization
 
